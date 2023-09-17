@@ -7,13 +7,13 @@ a repository can be publicly or privately accessed. It is more like a project di
 features.
 ```
 <h4>2, How to initialize a new git repository in a directory?</h4>
-###### open your desired directory, then right click and click git bash here then on the terminal window.
+<p> open your desired directory, then right click and click git bash here then on the terminal window.</p>
 <p style="opacity:0.5">$ git-bash</p>
 
 ```bash
 $ git init
 ```
-###### this outputs
+<p> this outputs</p>
 ```md
 Initialized empty Git repository in C:/path_to_your_directory/your_directory_name.git/
 ```
