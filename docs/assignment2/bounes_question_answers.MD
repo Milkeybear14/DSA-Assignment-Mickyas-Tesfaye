@@ -31,7 +31,7 @@ that are not necessary but that helps the editors like .vscode directory for vsc
 or .idea for jetbrains code editors and packages that occupies more space.
 <p> For example: </p>
 
-# .gitignore
+<p> .gitignore</p>
 .vscode
 .pipenv
 
