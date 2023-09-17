@@ -18,7 +18,7 @@ $ git init
 Initialized empty Git repository in C:/path_to_your_directory/your_directory_name.git/
 ```
 <h4>3, What is a git command to clone a remote repository to local machine?</h4>
-###### open your desired directory to save the cloned files, then right click and click git bash here then on the terminal window.
+<p>open your desired directory to save the cloned files, then right click and click git bash here then on the terminal window.</p>
 <h5>go to <a href="https://github.com"> github.com </a> and copy your desired repository link</h5>
 <p style="opacity:0.5">$ git-bash</p>
 
@@ -29,7 +29,7 @@ $ git clone your_link
 .gitignore is a file that tells GitHub to exclude the files listed inside this folder It is important to exclude files 
 that are not necessary but that helps the editors like .vscode directory for vscode editor
 or .idea for jetbrains code editors and packages that occupies more space.
-###### For example: 
+<p> For example: </p>
 ```gitignore
 # .gitignore
 .vscode
