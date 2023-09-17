@@ -30,7 +30,7 @@ $ git clone your_link
 that are not necessary but that helps the editors like .vscode directory for vscode editor
 or .idea for jetbrains code editors and packages that occupies more space.
 <p> For example: </p>
-```gitignore
+```md
 # .gitignore
 .vscode
 .pipenv
