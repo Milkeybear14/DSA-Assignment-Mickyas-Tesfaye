@@ -1,7 +1,7 @@
 # Answers
 
 <h4>1, What is git repository?</h4>
-```md
+```bash
 Git repository is a storage for any project that is in development or already developed projects.
 a repository can be publicly or privately accessed. It is more like a project directory on the cloud with more interactive
 features.
@@ -14,7 +14,7 @@ features.
 $ git init
 ```
 <p> this outputs</p>
-```md
+```bash
 Initialized empty Git repository in C:/path_to_your_directory/your_directory_name.git/
 ```
 <h4>3, What is a git command to clone a remote repository to local machine?</h4>
