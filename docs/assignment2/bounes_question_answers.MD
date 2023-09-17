@@ -15,7 +15,7 @@ $ git init
 ```
 <p> this outputs</p>
 ```bash
-Initialized empty Git repository in C:/path_to_your_directory/your_directory_name.git/
+$ Initialized empty Git repository in C:/path_to_your_directory/your_directory_name.git/
 ```
 <h4>3, What is a git command to clone a remote repository to local machine?</h4>
 <p>open your desired directory to save the cloned files, then right click and click git bash here then on the terminal window.</p>
